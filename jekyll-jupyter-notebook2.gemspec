@@ -22,7 +22,7 @@ require "jekyll-jupyter-notebook2/version"
 Gem::Specification.new do |spec|
   spec.name = "jekyll-jupyter-notebook2"
   spec.version = JekyllJupyterNotebook::VERSION
-  spec.homepage = "https://github.com/wittawatj/jekyll-jupyter-notebook"
+  spec.homepage = "https://github.com/wittawatj/jekyll-jupyter-notebook2"
   spec.authors = ["Kouhei Sutou"]
   spec.email = ["kou@clear-code.com"]
 
