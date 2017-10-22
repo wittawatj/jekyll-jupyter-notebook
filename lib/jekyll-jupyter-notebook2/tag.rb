@@ -34,6 +34,7 @@ module JekyllJupyterNotebook
         system("jupyter",
                "nbconvert",
                "--to", "html",
+               "--template", "basic",
                "--output-dir", output,
                notebook_path)
         html_path = Dir.glob("#{output}/*.html").first
