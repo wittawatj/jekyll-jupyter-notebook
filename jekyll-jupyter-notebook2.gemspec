@@ -17,12 +17,12 @@ clean_white_space = lambda do |entry|
 end
 
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), "lib"))
-require "jekyll-jupyter-notebook/version"
+require "jekyll-jupyter-notebook2/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "jekyll-jupyter-notebook"
+  spec.name = "jekyll-jupyter-notebook2"
   spec.version = JekyllJupyterNotebook::VERSION
-  spec.homepage = "https://github.com/red-data-tools/jekyll-jupyter-notebook"
+  spec.homepage = "https://github.com/wittawatj/jekyll-jupyter-notebook"
   spec.authors = ["Kouhei Sutou"]
   spec.email = ["kou@clear-code.com"]
 

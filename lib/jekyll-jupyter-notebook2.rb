@@ -10,6 +10,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-require "jekyll-jupyter-notebook/version"
+require "jekyll-jupyter-notebook2/version"
 
-require "jekyll-jupyter-notebook/tag"
+require "jekyll-jupyter-notebook2/tag"
