@@ -1,5 +1,12 @@
 # README
 
+This is a project I forked from
+[here](https://github.com/red-data-tools/jekyll-jupyter-notebook) by Kouhei
+Sutou. This repository has no improvement whatsoever over the code in the
+original repository. Please refer to the original one for your usage.
+
+-----------------
+
 ## Name
 
 Jekyll Jupyter Notebook plugin
@@ -27,11 +34,6 @@ gems:
 
 Put a Jupyter Notebook (`sample.ipynb`) to the directory that has the target text (`my-text.md`) like the following:
 
-```text
-.
-|-- my-text.md
-`-- sample.ipynb
-```
 
 Put the following tag into the target text:
 
