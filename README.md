@@ -5,7 +5,6 @@ This is a project I forked from
 Sutou. This repository has no improvement whatsoever over the code in the
 original repository. Please refer to the original one for your usage.
 
------------------
 
 ## Name
 
